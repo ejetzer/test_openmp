@@ -1,2 +1,5 @@
 *.o
-
+*.lint
+*.log
+*.txt
+.DS_Store
